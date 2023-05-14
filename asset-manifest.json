@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/interior-template-w3.css/static/css/main.8142598a.css",
+    "main.js": "/interior-template-w3.css/static/js/main.80b1a2d9.js",
+    "static/js/787.0759313b.chunk.js": "/interior-template-w3.css/static/js/787.0759313b.chunk.js",
+    "static/media/atrium.jpg": "/interior-template-w3.css/static/media/atrium.4b7ec5228e1885fe8bca.jpg",
+    "static/media/kitchenconcrete.jpg": "/interior-template-w3.css/static/media/kitchenconcrete.2d455d8ccc91ff46b8e0.jpg",
+    "static/media/bedroom.jpg": "/interior-template-w3.css/static/media/bedroom.38a6c1c4571faa446e3d.jpg",
+    "static/media/diningroom.jpg": "/interior-template-w3.css/static/media/diningroom.6befd74aac176bd7e51f.jpg",
+    "static/media/livingroom.jpg": "/interior-template-w3.css/static/media/livingroom.7c79c62b18a33a3aaa68.jpg",
+    "static/media/livingroom2.jpg": "/interior-template-w3.css/static/media/livingroom2.9140fef92ac98beb2666.jpg",
+    "static/media/team3.jpg": "/interior-template-w3.css/static/media/team3.722c83de4121d9fcfede.jpg",
+    "static/media/team1.jpg": "/interior-template-w3.css/static/media/team1.a1d2f3730ad3b807a1cd.jpg",
+    "index.html": "/interior-template-w3.css/index.html",
+    "main.8142598a.css.map": "/interior-template-w3.css/static/css/main.8142598a.css.map",
+    "main.80b1a2d9.js.map": "/interior-template-w3.css/static/js/main.80b1a2d9.js.map",
+    "787.0759313b.chunk.js.map": "/interior-template-w3.css/static/js/787.0759313b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8142598a.css",
+    "static/js/main.80b1a2d9.js"
+  ]
+}
